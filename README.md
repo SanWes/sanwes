@@ -1,17 +1,74 @@
-# Hello, I'm Wesley Sanchez 👋
+# 👋 Hey, I'm Wesley
 
-As a Full Stack Developer passionate about crafting innovative solutions, I bring a diverse skill set and a fusion of experiences in healthcare and technology to the table.
+## 📌 Table of Contents
+- [About Me](#about-me)
+- [What Sets Me Apart](#what-sets-me-apart)
+- [Projects](#projects)
+- [Skills & Tools](#skills--tools)
+- [Education](#education)
 
-## Skills and Expertise
-- **Languages**: HTML5, CSS, JavaScript, Python, Java, SQL
-- **Frameworks & Tools**:  Amazon Web Services, Azure, React, Express.js, Node.js, MongoDB, Django, Flask, Terminal, Git, jQuery, Socket.io, Spring Tool Suite, Sanity, Commerce.js & more ... 
+---
 
-## What Sets Me Apart
-My unique blend of experiences in healthcare and software development allows me to bring not just technical expertise but also empathy, coordination, and problem-solving skills to every project.
+## 👨‍💻 About Me
 
-## Educational Background
-- **Coding Dojo Bootcamp Certificate**: 2021
-- **Coursework from Duke University**: Programming Foundations with JavaScript, HTML and CSS
+I'm a Full Stack Software Engineer with a background in psychology and healthcare, passionate about building user-focused web applications. I bring a unique perspective to development—blending empathy, clear communication, and technical depth.
 
-## How I Approach Problem-Solving
-I believe in a comprehensive approach to problem-solving, leveraging my technical skills alongside my understanding of the human element in technology. This allows me to create impactful, user-centric solutions.
+Currently leveling up my Firebase skills and tackling coding challenges while exploring new opportunities in full stack development.  
+📬 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/wesley-sanchez/)
+
+---
+
+## 🧠 What Sets Me Apart
+
+My journey from psychology and healthcare to full stack development gives me a well-rounded edge. I build solutions with both **human experience and system architecture in mind**—bridging logic and empathy in every project.
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Tech Store
+A modern React-based store integrated with Firebase. Features product browsing, cart functionality, and real-time database syncing.
+
+- 💻 [GitHub Repo](https://github.com/SanWes/E-Commerce_Tech_Accessories)
+- ⚙️ Stack: React, JSX, Firebase, Firestore
+
+---
+
+### ✈️ TravelBlog App (MERN)
+A blogging platform where users can log in, post travel experiences, and manage content with full CRUD operations.
+
+- 💻 [GitHub Repo](https://github.com/SanWes/Travlr-WorldWide)
+- ⚙️ Stack: MongoDB, Express, React, Node.js, JWT Auth
+
+---
+
+### 📊 Job Hunt Dashboard
+Track job applications, organize tasks, and monitor progress—all synced in real-time using Firebase.
+
+- 💻 [GitHub Repo](https://github.com/SanWes/job-hunt-dashboard)
+- ⚙️ Stack: React, Firebase, Firestore, Bootstrap
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages**  
+JavaScript, Python, Java, HTML5, CSS, SQL
+
+**Frameworks & Libraries**  
+React, Node.js, Express, Django, Flask, jQuery, Spring, Socket.io
+
+**Databases & Cloud**  
+MongoDB, Firebase (Firestore), MySQL, AWS, Azure
+
+**Tools & Others**  
+Git, GitHub, Terminal, Postman, Sanity, Commerce.js
+
+---
+
+## 🎓 Education
+
+- 🏆 **Coding Dojo Bootcamp Certificate** (2021)  
+- 📘 **Duke University** – Programming Foundations with JavaScript, HTML, and CSS
+
+---
